@@ -1,0 +1,3 @@
+= doc.adoc-editor.io
+
+Technical documentation for adoc-editor
